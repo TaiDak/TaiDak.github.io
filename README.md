@@ -1,2 +1,2 @@
-# TaiDak.github.io
-Collection of kodi zips
+# TaiDak github
+personal repo of kodi zips
